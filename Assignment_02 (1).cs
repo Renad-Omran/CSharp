@@ -91,21 +91,3 @@ namespace Assignment_02
             // Answer: 4. 7 7
         }
     }
-
-    // ---------------------------------------------------------------
-    //  Point class — used in Question 6 (reference type example)
-    // ---------------------------------------------------------------
-    internal class Point
-    {
-        public int X { get; set; }
-        public int Y { get; set; }
-
-        public Point() { }
-
-        public Point(int x, int y)
-        {
-            X = x;
-            Y = y;
-        }
-    }
-}
