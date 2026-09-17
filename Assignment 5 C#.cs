@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
 
-namespace Session_04_Assignment
+namespace Session_05_Assignment
 {
     enum WeekDays
     {
